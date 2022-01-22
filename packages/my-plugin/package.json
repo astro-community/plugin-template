@@ -1,0 +1,16 @@
+{
+  "name": "@example/my-plugin",
+  "version": "0.0.1",
+  "type": "module",
+  "exports": {
+    ".": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "astro-plugin",
+    "example"
+  ],
+  "private": true
+}
