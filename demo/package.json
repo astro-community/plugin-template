@@ -1,7 +1,7 @@
 {
   "name": "@example/my-plugin-demo",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "start": "astro dev",
@@ -9,7 +9,7 @@
     "serve": "astro preview"
   },
   "devDependencies": {
-    "@example/my-plugin": "0.0.1",
+    "@example/my-plugin": "0.1.0",
     "astro": "latest"
   }
 }

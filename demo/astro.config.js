@@ -1,3 +1,5 @@
+// @ts-check
+
 import { myPlugin } from '@example/my-plugin'
 
 /** @type {import('astro').AstroUserConfig} */
